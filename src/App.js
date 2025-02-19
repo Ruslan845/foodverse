@@ -10,7 +10,7 @@ import Footer from "./components/Footer";
 import NotFound from "./components/NotFound";
 
 const App = () => {
-  //This function for smooth scrolling
+//  //This function for smooth scrolling
   useSmoothScroll();
 
   const [searchQuery, setSearchQuery] = useState("");
